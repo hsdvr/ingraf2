@@ -140,9 +140,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ingraf2.cpp" />
+    <ClCompile Include="pipeline.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="math_3d.h" />
+    <ClInclude Include="pipeline.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
