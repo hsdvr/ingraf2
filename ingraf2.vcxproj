@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ingraf2.cpp" />
+    <ClCompile Include="math_3d.cpp" />
     <ClCompile Include="pipeline.cpp" />
   </ItemGroup>
   <ItemGroup>
